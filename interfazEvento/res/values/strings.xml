@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">interfazEvento</string>
+    <string name="mensaje">Rellene los siguientes campos</string>
+    <string name="nombre">Nombre:</string>
+    <string name="edad">Edad:</string>
+    <string name="estudiante">Estudiante:</string>
+    <string name="mujer">Mujer</string>
+    <string name="hombre">Hombre</string>
+    <string name="enviar">Enviar</string>
+    <string name="borrar">Borrar</string>
+
+</resources>
